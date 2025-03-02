@@ -1,7 +1,7 @@
 # TypeScript Todo List Console Application
 
 ## Overview
-This is a simple Todo List Console Application built using Typescript and compiled to Javascript. The application
+This is a simple Todo List Console Application built using Typescript. The application
 allows users to manage their tasks efficiently by adding, updating, completing, filtering, removing, and listing
 todo items directly in the console.
 
